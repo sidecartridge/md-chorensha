@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.0.1 (unreleased)
+
+- **Built with version 1.5.0 of the Atari ST toolkit**
+  ([atarist-toolkit-docker](https://github.com/sidecartridge/atarist-toolkit-docker)), the
+  toolchain that compiles the part of the app that runs on the Atari. Nothing changes in how the
+  app looks or plays.
+
+---
+
 ## v1.0.0 (2026-11-04)
 
 **Cho Ren Sha 68k at 50 frames a second.** Famibe no Yosshin's 1995 shoot'em up for the Sharp
